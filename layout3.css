@@ -1,0 +1,31 @@
+#q1{
+	height: 100px;
+	width: 699px;
+}
+div{
+	border: 1px solid black;
+	background-color: yellow;
+}
+#q2{
+ 	width: 233px;
+ 	height: 300px;
+}
+#q3{
+	width: 233px;
+	height: 300px;
+	background-color: lightpink;
+	position: absolute;
+	left: 242px;
+	top: 110px;
+}
+#q4{
+	width: 232px;
+	height: 300px;
+	position: absolute;
+	left: 475px;
+	top: 110px;
+}
+#q5{
+	width: 699px;
+	height: 50px;
+}
